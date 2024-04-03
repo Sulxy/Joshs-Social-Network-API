@@ -1,7 +1,7 @@
 # Joshs-Social-Network-API
 
 ## Description
-This API allows users to be created, and deleted. It allows users to comment, or "thought", and react to those thoughts -- theirs, or others, and also allows users to edit their thoughts, and reactions. It allows users to add and delete other users from their friends list as well. It is a database that creates and holds new data as it is added, deleted, or updated. 
+This API allows users to be created, and deleted. It allows users to comment, or "thought", and react to those thoughts -- theirs, or others, and also allows users to edit their own thoughts, and reactions. It also allows users to add and delete other users from their friends list as well. It is a database that creates and holds new data as it is added, deleted, or updated. 
 
 ## Table of Contents
 - [Installation](#installation)
