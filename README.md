@@ -17,7 +17,7 @@ Clone the repository, navigate to the folder that contains the "package.json" fi
 ## Usage
 Without a front-end to go with it, you need to use Insomnia to interact with it. Which you will see in the youtube video that displays its' functionality. 
 
-[Youtube Video Link](www.youtube.com)
+[Video Demonstration](https://www.youtube.com/watch?v=BHiUTM82CJQ)
 
 ## License
 This project is licensed under the MIT license.
